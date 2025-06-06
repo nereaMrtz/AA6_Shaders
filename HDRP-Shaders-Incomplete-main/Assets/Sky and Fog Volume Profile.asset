@@ -436,13 +436,13 @@ MonoBehaviour:
     m_Value: 0
   intensity:
     m_OverrideState: 1
-    m_Value: 1.93
+    m_Value: 1.61
   directLightingStrength:
     m_OverrideState: 1
-    m_Value: 0.333
+    m_Value: 0.424
   radius:
     m_OverrideState: 1
-    m_Value: 3.31
+    m_Value: 2.83
   spatialBilateralAggressiveness:
     m_OverrideState: 0
     m_Value: 0.15
@@ -557,7 +557,7 @@ MonoBehaviour:
   active: 1
   mode:
     m_OverrideState: 1
-    m_Value: 4
+    m_Value: 1
   meteringMode:
     m_OverrideState: 0
     m_Value: 2
@@ -720,7 +720,7 @@ MonoBehaviour:
     m_Value: 1
   m_MinSmoothness:
     m_OverrideState: 1
-    m_Value: 0.562
+    m_Value: 0.516
   m_SmoothnessFadeStart:
     m_OverrideState: 1
     m_Value: 1
@@ -732,10 +732,10 @@ MonoBehaviour:
     m_Value: 1
   depthBufferThickness:
     m_OverrideState: 1
-    m_Value: 0.054
+    m_Value: 0.079
   screenFadeDistance:
     m_OverrideState: 1
-    m_Value: 0.139
+    m_Value: 0.226
   accumulationFactor:
     m_OverrideState: 0
     m_Value: 0.75
@@ -852,13 +852,13 @@ MonoBehaviour:
     m_Value: 1000
   baseHeight:
     m_OverrideState: 1
-    m_Value: 9.83
+    m_Value: 3.52
   maximumHeight:
     m_OverrideState: 1
-    m_Value: 23.1
+    m_Value: 23.46
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 3888.74
+    m_Value: 47.8
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
@@ -870,7 +870,7 @@ MonoBehaviour:
     m_Value: 1
   depthExtent:
     m_OverrideState: 1
-    m_Value: 20.37
+    m_Value: 27.4
   denoisingMode:
     m_OverrideState: 1
     m_Value: 3
@@ -916,10 +916,10 @@ MonoBehaviour:
     m_Value: 1
   threshold:
     m_OverrideState: 1
-    m_Value: 1.03
+    m_Value: 19.1
   intensity:
     m_OverrideState: 1
-    m_Value: 0.126
+    m_Value: 0.03
   scatter:
     m_OverrideState: 0
     m_Value: 0.7
@@ -968,13 +968,13 @@ MonoBehaviour:
     m_Value: 4
   cascadeShadowSplit0:
     m_OverrideState: 1
-    m_Value: 0.1
+    m_Value: 0.094936706
   cascadeShadowSplit1:
     m_OverrideState: 1
-    m_Value: 0.2
+    m_Value: 0.27594936
   cascadeShadowSplit2:
     m_OverrideState: 1
-    m_Value: 0.5
+    m_Value: 0.47468355
   cascadeShadowBorder0:
     m_OverrideState: 0
     m_Value: 0
